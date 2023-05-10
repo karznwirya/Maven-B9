@@ -12,6 +12,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginPageTest {
 
+	
+	
 	@Test
 	public void loginPageTest() throws InterruptedException {
 		String url = "https://ntkhr.noortecktraining.com/web/index.php/auth/login";
